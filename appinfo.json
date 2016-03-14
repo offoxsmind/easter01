@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "somberfox@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Easter 1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Triforce.ttf",
+                "name": "zelda14",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/easter1.png",
+                "name": "hexa",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Easter 1",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "4c81278e-c715-43ac-809f-0380a9cb4f70",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
